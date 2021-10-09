@@ -1,28 +1,19 @@
 
 
-### Hi there 👋
-
-<!--
-**mahatabhossain/mahatabhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Tausif - aka [codingfever] 👋
 
 <img align='center' src= 'https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/hello.gif' />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
 
 
+## I'm  Data passionate and python geek  !!!
 
-
-
+- 🔭 Welcome to the world of data geek.....
+- 🌱 I’m currently exploring everything 🤣
+- 👯 I’m looking for passionate data geek
+- ⚡ I love to read and write blogs
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 <br />
 
