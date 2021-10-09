@@ -7,7 +7,7 @@
 <br/>
 
 
-## I'm  Data passionate and python geek  !!!
+## I'm passionate web developer enthusiast and Javascript geek  !!!
 
 - 🔭 Welcome to the world of software engineering.....
 - 🌱 I’m currently exploring development related stuff 🤣
