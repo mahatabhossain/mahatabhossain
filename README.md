@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Mahatab Hossasin - aka [mahatabhossain] 👋
 
-<img align='center' src= 'https://github.com/mahatabhossain/mahatabhossain/blob/main/209652.gif' style="height:200px, width:400px"/>
+<img align='center' src= 'https://github.com/mahatabhossain/mahatabhossain/blob/main/209652.gif' style="width:400px"/>
 
 <br/>
 
