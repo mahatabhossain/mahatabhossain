@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Tausif - aka [codingfever] 👋
 
-<img align='center' src= 'https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/hello.gif' />
+<img align='center' src= 'https://github.com/mahatabhossain/gifs/blob/main/1751686_a2005.gif' />
 
 <br/>
 
