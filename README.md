@@ -9,10 +9,10 @@
 
 ## I'm  Data passionate and python geek  !!!
 
-- 🔭 Welcome to the world of data geek.....
-- 🌱 I’m currently exploring everything 🤣
+- 🔭 Welcome to the world of software engineering.....
+- 🌱 I’m currently exploring development related stuff 🤣
 - 👯 I’m looking for passionate data geek
-- ⚡ I love to read and write blogs
+- ⚡ I love to learn new technologies and build real project
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 <br />
@@ -23,7 +23,7 @@
 <br/>
 
 
-<img align="left" alt="md-tausif786 | LinkedIn" width="26px" src="https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/linkedin.jpg" /><a href='https://www.linkedin.com/in/md-tausif786/' target="_blank"> Linkedin  </a> 
+<img align="left" alt="md-tausif786 | LinkedIn" width="26px" src="https://github.com/Danialmonachan11/Danialmonachan11/blob/master/Assets/linkedin.jpg" /><a href='https://www.linkedin.com/in/mahatab-hossain/' target="_blank"> Linkedin  </a> 
 
 <br />
 
