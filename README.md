@@ -42,7 +42,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
  <p align="left">
  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=mahatabhossain&show_icons=true&theme=synthwave" alt="stats"/>
-  <img align="center" padding= "-10px" alt="Mahatab Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahatabhossain&hide_border=true" />
+  <img align="center" padding= "-10rem" alt="Mahatab Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahatabhossain&hide_border=true" />
  </p>
 
 <br />
