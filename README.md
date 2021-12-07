@@ -39,4 +39,10 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
 <br />
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=codingf3ver&show_icons=true&theme=synthwave" alt="stats"/>
+ <img align="left" alt="Mahatab Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingf3ver&hide_border=true" />
+</p>
+
 <br />
