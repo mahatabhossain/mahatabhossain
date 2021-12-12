@@ -37,11 +37,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 
-<br />
+<!-- <br />
 <br />
  <p align="left">
  <img width="530em" height="300em" src="https://github-readme-stats.vercel.app/api?username=mahatabhossain&show_icons=true&theme=synthwave" alt="stats"/>
   <img align="left" height="300em" alt="Mahatab Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahatabhossain&hide_border=true" />
  </p>
 
-<br />
+<br /> -->
