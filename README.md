@@ -7,13 +7,12 @@
 <br/>
 
 
-## I'm passionate web developer enthusiast and Javascript geek  !!!
+## I'm passionate Software Engineer enthusiast and Javascript geek  !!!
 
-- 🔭 Welcome to the world of software engineering.....
-- 🌱 I’m currently exploring development related stuff 🤣
-- 👯 I’m looking for passionate data geek
-- ⚡ I love to learn new technologies and build real project
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- I’m currently exploring development related stuff
+- I’m looking for Sofware Engineer role
+- love to learn new technologies and build real-world project
+- Learning Data Structure and Algorithm, problem solving, Aptitude, and reasoning.
 
 <br />
 
