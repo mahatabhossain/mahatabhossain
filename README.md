@@ -11,7 +11,7 @@
 
 - I’m currently exploring development related stuff
 - I’m looking for Sofware Engineer role
-- love to learn new technologies and build real-world project
+- Love to learn new technologies and build real-world project
 - Learning Data Structure and Algorithm, problem solving, Aptitude, and reasoning.
 
 <br />
